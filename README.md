@@ -57,7 +57,7 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 
 ## 🔗 Connect
 
-Following along or doing a similar challenge? Feel free to connect on [LinkedIn](#) once the journey wraps up!
+Following along or doing a similar challenge? Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sachin-b-19a00a333/) once the journey wraps up!
 
 ---
 
