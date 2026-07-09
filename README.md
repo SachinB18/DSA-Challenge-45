@@ -23,7 +23,6 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 
 ## 📁 Repo Structure
 
-```
 45-Days-of-DSA/
 ├── Day01/
 │   ├── Problem1.java
@@ -33,7 +32,6 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 │   └── ...
 ├── ...
 └── README.md
-```
 
 ## 🛠️ Tech Stack
 
@@ -43,9 +41,11 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 
 | Day | Date | Topics Covered | Status |
 |---|---|---|---|
-| Day 01 | | | ⬜ |
-| Day 02 | | | ⬜ |
-| Day 03 | | | ⬜ |
+| Day 01 | 05 Jul 2026 | Largest Element, Reverse String, Palindrome Check | ✅ |
+| Day 02 | 06 Jul 2026 | Second Largest, Vowel/Consonant Count, Anagram Check | ✅ |
+| Day 03 | 08 Jul 2026 | Missing Number, Character Frequency, Rotate Array | ✅ |
+| Day 04 | | | ⬜ |
+| Day 05 | | | ⬜ |
 
 *(Table updated daily as the challenge progresses)*
 
