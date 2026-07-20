@@ -44,7 +44,7 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 | Day 01 | 05 Jul 2026 | Largest Element, Reverse String, Palindrome Check | ✅ |
 | Day 02 | 06 Jul 2026 | Second Largest, Vowel/Consonant Count, Anagram Check | ✅ |
 | Day 03 | 08 Jul 2026 | Missing Number, Character Frequency, Rotate Array | ✅ |
-| Day 04 | | | ⬜ |
+| Day 04 | | | done |
 | Day 05 | | | ⬜ |
 
 *(Table updated daily as the challenge progresses)*
