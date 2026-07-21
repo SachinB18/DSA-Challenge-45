@@ -45,7 +45,7 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 | Day 02 | 06 Jul 2026 | Second Largest, Vowel/Consonant Count, Anagram Check | ✅ |
 | Day 03 | 08 Jul 2026 | Missing Number, Character Frequency, Rotate Array | ✅ |
 | Day 04 | | | done |
-| Day 05 | | | ⬜ |
+| Day 05 | | | jjj |
 
 *(Table updated daily as the challenge progresses)*
 
