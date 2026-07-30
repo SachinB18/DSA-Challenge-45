@@ -29,7 +29,7 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 │   ├── Problem2.java
 │   └── Problem3.java
 ├── Day02/
-│   └── ...
+│   └── 
 ├── ...
 └── README.md
 
