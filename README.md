@@ -52,7 +52,6 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 
 - No skipping days — if missed, made up before moving ahead
 - Every day = its own folder + its own commit
-- Focus on writing clean, working solutions and understanding the *why*, not just the *how*
 
 ## 🔗 Connect
 
