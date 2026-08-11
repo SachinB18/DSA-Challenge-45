@@ -35,7 +35,6 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 
 ## 🛠️ Tech Stack
 
-- **Language:** Java
 
 ## 📊 Progress Tracker
 
