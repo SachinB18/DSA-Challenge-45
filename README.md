@@ -21,7 +21,6 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 | **Phase 1** (this challenge) | Arrays, Strings, Searching, Sorting, Hashing, Stacks/Queues, Linked Lists | 🟡 In Progress |
 | **Phase 2** | Trees, Graphs, Advanced DSA | ⚪ Planned |
 
-## 📁 Repo Structure
 
 45-Days-of-DSA/
 ├── Day01/
