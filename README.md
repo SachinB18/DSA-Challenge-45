@@ -48,7 +48,6 @@ This repo is also my first hands-on journey with **Git & GitHub**, so the workfl
 ## 📌 Rules
 
 - No skipping days — if missed, made up before moving ahead
-- Every day = its own folder + its own commit
 
 ## 🔗 Connect
 
